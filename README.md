@@ -1,4 +1,7 @@
-# Calculator Simulator
+# Balanced Parentheses Checker
 
-Problem: 
-Build a simple calculator that can undo the last few operations
+The Problem: Check if parentheses are balanced in math expressions
+(5 + 3) * 2 ✓ Valid
+((5 + 3) * 2 ✗ Invalid
+(5 + (3 * 2)) ✓ Valid
+)(5 + 3)( ✗ Invalid
